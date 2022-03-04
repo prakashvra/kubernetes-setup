@@ -1,3 +1,5 @@
+[How to setup a kubernetes cluster using Kubeadm,containderd and calico](https://dev.to/prakashvra/how-to-setup-a-kubernetes-cluster-using-kubeadm-lka-temp-slug-4773612?preview=09d06ea8f1f5d8dff55e76f36f37834d7ddb457115e63e4985718948b0a4d16b479b1f07048abec2b09be2ec0e47c84514eed1d812409ac030086fa3)
+
 In this article we will see how to setup a k8s cluster on AWS EC2 hosts using kubeadm.
 
 We will see in a series of steps 
