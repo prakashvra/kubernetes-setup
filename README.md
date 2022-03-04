@@ -1,4 +1,4 @@
-In this session we will see how to setup a k8s cluster on AWS EC2 hosts using kubeadm.
+In this article we will see how to setup a k8s cluster on AWS EC2 hosts using kubeadm.
 
 We will see in a series of steps 
 - Where to start?
